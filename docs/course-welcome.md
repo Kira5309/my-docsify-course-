@@ -1,4 +1,4 @@
-![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
+![Welcome sign](images/guan.png ':class=banner-image')
 
 # 小鹿家预约流程：
 
