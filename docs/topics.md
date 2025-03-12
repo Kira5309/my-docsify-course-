@@ -1,3 +1,5 @@
+![Welcome sign](images/guan.png ':class=banner-image')
+
 > # 欢迎哥哥光临小鹿家工作室
 > ## 地址：河北省廊坊市固安县
 > ### 小鹿家承诺无任何加项费用，无任何隐形费用，我们只有套餐。
