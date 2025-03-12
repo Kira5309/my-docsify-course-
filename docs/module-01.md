@@ -1,19 +1,17 @@
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+# <span style="color:red;">玫瑰</span>
 
-# What is usability and user experience design?
+# 妹妹编号：GA6131
 
-## Summaries and Questions  
-[May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
+# 妹妹资料
+- ❤️年龄：25岁
+- ❤️体重：98斤
+- ❤️身高：163
+- ❤️🐻：天然D杯
+- ⚠️禁：无T/杠/醉酒/嗑药
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
-## Supplemental Materials  
-[Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)
-<div class="responsive-container"><iframe src="https://docs.google.com/viewer?url=https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf&embedded=true" style="width:780px; height:585px;" frameborder="0"></iframe></div>
-
-## Downloads
-[Course Overview](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Course%20Overview)  
-
-## Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
+# <span style="color:red;">玫瑰照片</span>
+<img src="images/bjs_cp_mg.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_cp_mg2.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_cp_mg3.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_cp_mg4.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_cp_mg5.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
