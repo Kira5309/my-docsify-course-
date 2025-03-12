@@ -1,12 +1,10 @@
-# Contact
+# 联系方式
 
-## Course Instructor  
-Some Name  
+小路家联系邮箱：
 somename@somewhere.edu  
 
-Online office hours:  
-Mondays 12:00-1:30pm  
-Fridays 12:00-1:00pm  
+易往聊天App:  
+易往官网：https://www.sec-chat.com 
+易往号：5582455
+加妹妹易往号好友约课哦，号码随时更换，请哥哥收藏我们网址。
 
-Suggestion, concern or complaint?  
-Send me your [anonymous course feedback](#)!
