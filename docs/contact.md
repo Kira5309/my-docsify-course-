@@ -1,7 +1,7 @@
 # 联系方式
 
 小路家联系邮箱：
-somename@somewhere.edu  
+HWGQ@mail2tor.com
 
 易往聊天App:  
 
@@ -10,4 +10,8 @@ somename@somewhere.edu
 易往号：5582455
 
 加妹妹易往号好友约课哦，号码随时更换，请哥哥收藏我们网址。
+
+
+因推广原因使用冷门聊天软件联系，推荐使用邮箱联系。
+老顾客有微信。
 
