@@ -1,18 +1,17 @@
-![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
+# <span style="color:red;">奶昔</span>
 
-# How to make more strategic design decisions?
+# 奶昔号码牌：4322号
 
-## Summaries and Questions  
-[May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
+# 妹妹资料
+- ❤️四川人
+- ❤️年龄：24岁
+- ❤️体重：96斤
+- ❤️身高：165
+- ❤️🐻：D杯
+- ⚠️禁：无T/酒后/肛
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+# 玫瑰照片
 
-## Supplemental Materials  
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-## Assignments
-[Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
-
-## Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
+<img src="images/bjs_dx_nx.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_dx_nx1.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_dx_nx2.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
