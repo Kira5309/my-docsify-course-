@@ -1,3 +1,4 @@
+![Welcome sign](images/guan.png ':class=banner-image')
 # 优惠多多
 
 > ### 所有新客第一次优惠：长期有效
