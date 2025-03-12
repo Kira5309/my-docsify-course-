@@ -1,28 +1,27 @@
-# Schedule
+# 小鹿家预约流程：
 
-## :fas fa-calendar fa-pull-left: [Week 1 (May 9 - 15)](module-01)
-**What is usability and user experience design?**  
-:fas fa-desktop fa-fw: [Introduction to UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
+## 外出：(酒店，民宿)
+** 无需订金与路费，妹妹自己过去。 **  
+:1：哥哥准备一个QQ号，联系妹妹使用。
+:2：哥哥挑选好妹妹
+:3：哥哥附近开好房间
+:4：哥哥把“房卡”“房号”“酒店地址”“手机号”提供下。
+:5：客服把信息发给妹妹，妹妹会给一个QQ联系方式，加上QQ好友或私群。妹妹会打电话确定好位置，妹妹出门。
+:6：祝哥哥玩的开心。
 
-## :fas fa-calendar fa-pull-left: [Week 2 (May 16 - 22)](module-02)
-**What does a holistic user experience design process look like?**  
-:fas fa-keyboard fa-fw: [Course Reflection Log](https://sso.canvaslms.com/courses/1924881/assignments/14377752) <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>  
-:fas fa-desktop fa-fw: [The Process of UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b)  
+## 外出：（上门哥哥家里）
+**  需要提前支付订金200 **  
+:   防止鸽子 
 
-## :fas fa-calendar fa-pull-left: [Week 3 (May 23 - 29)](module-03)
-**How to make more strategic design decisions?**  
-:fas fa-keyboard fa-fw: [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756) <span class='badge'> Tue Jun 12th 11:59pm PDT</span>  
-:fas fa-folder fa-fw: [Informed Consent Materials](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Informed%20Consent)  
-:fas fa-desktop fa-fw: [Strategic UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)  
+## 来工作室
+** 需要提前支付订金200，提前预约时间 **  
+:  防止鸽子
 
-## :fas fa-calendar fa-pull-left: [Week 4 (May 30 - Jun 5)](module-04)
-**How to explore the problem space?**  
-:fas fa-desktop fa-fw: [Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
-:fas fa-users fa-fw: In-class office hours (tentative)  
+
+## 来工作室温馨提示
+** 我们在固安县小区里有5个地方 **  
+: 可能每次哥哥约好地方不一样，哥哥不用太在意，这是为了安全。
+: 这5个地方不是妹妹居住使用，房间干净整洁。
 
 ## :fas fa-calendar fa-pull-left: [Week 5 (Jun 6 - 12)](module-05)
 **How to plan, conduct, and summarize usability tests?**  
