@@ -1,3 +1,5 @@
+![Welcome sign](images/guan.png ':class=banner-image')
+
 # 小鹿家预约流程：
 
 > ## 外出：(酒店，民宿)
