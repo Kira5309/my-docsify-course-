@@ -1,18 +1,17 @@
-# <span style="color:red;">玫瑰</span>
+# <span style="color:red;">雅乐</span>
 
-# 玫瑰号码牌：4613号
+# 雅乐号码牌：4613号
 
 # 妹妹资料
-- ❤️年龄：25岁
-- ❤️体重：98斤
-- ❤️身高：163
-- ❤️🐻：天然D杯
-- ⚠️禁：无T/杠/醉酒/嗑药
+- ❤️年龄：26岁
+- ❤️体重：108斤
+- ❤️身高：166
+- ❤️🐻：天然大F
+- ⚠️禁：无T/醉酒/嗑药
 
-# 玫瑰照片
+# 雅乐照片
 
-<img src="images/bjs_cp_mg.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-<img src="images/bjs_cp_mg2.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-<img src="images/bjs_cp_mg3.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-<img src="images/bjs_cp_mg4.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_hr_12.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_hr_11.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_hr_13.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
 
