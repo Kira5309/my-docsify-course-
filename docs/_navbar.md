@@ -1,4 +1,4 @@
-* [Schedule](schedule.md)
+* [预约流程](schedule.md)
 * [Topics](topics.md)
 * [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
