@@ -1,18 +1,16 @@
-# <span style="color:red;">玫瑰</span>
+# <span style="color:red;">宝儿</span>
 
-# 玫瑰号码牌：4613号
+# 宝儿号码牌：5113号
 
 # 妹妹资料
-- ❤️年龄：25岁
-- ❤️体重：98斤
-- ❤️身高：163
-- ❤️🐻：天然D杯
-- ⚠️禁：无T/杠/醉酒/嗑药
+- ❤️年龄：00年
+- ❤️体重：110斤
+- ❤️身高：175
+- ❤️🐻：D
+- ⚠️禁：无T/小时工
 
-# 玫瑰照片
+# 宝儿照片
 
-<img src="images/bjs_cp_mg.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-<img src="images/bjs_cp_mg2.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-<img src="images/bjs_cp_mg3.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-<img src="images/bjs_cp_mg4.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
-
+<img src="images/bjs_ft_1.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_ft_2.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
+<img src="images/bjs_ft_3.jpg" alt="UX - User Experience" style="width:100%; max-width:100vw; height:auto; display:block;">
