@@ -1,5 +1,5 @@
 * [预约流程](schedule.md)
-* [Topics](topics.md)
+* [价格表](topics.md)
 * [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
 * [Contact](contact.md)
